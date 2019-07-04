@@ -1,0 +1,19 @@
+{
+  "name": "js-sourcemap-to-source",
+  "version": "0.0.1",
+  "description": "Tries to restore the source files and directory structure of a Frontend application using the generated source map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marudhupandiyang/js-sourcemap-to-source.git"
+  },
+  "author": "Marudhu Pandiyan G <marudhupandiyang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marudhupandiyang/js-sourcemap-to-source/issues"
+  },
+  "homepage": "https://github.com/marudhupandiyang/js-sourcemap-to-source#readme"
+}
